@@ -1,0 +1,5 @@
+open pycharm
+create project from version control
+copy .git url this creates the project
+run the requirements file
+individually install  libraries from requirements.txt
